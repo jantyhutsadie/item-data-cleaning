@@ -2,4 +2,4 @@
 
 ### cleaning file data in order to analyze 
 
-### have to combine cokumns with same customer_id
+### have to combine columns with same customer_id
